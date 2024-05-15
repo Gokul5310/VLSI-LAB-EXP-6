@@ -43,7 +43,7 @@ Adding components to schematic:
 
 ![image](https://github.com/Gokul5310/VLSI-LAB-EXP-6/assets/116006381/01436570-acb7-4d88-8878-d38b091459cd)
 
-Adding pins to schematic:
+# Adding pins to schematic:
 
 1.Click the pin fixed menu icon in the schematic window. You can execute create pin or press ‘p’.
 
@@ -59,10 +59,10 @@ Adding pins to schematic:
 
 7.Complete the wiring as shown in the figure and when done wiring press ECS key in the schematic window to cancel wiring.
 
-Saving the design:
+# Saving the design:
 Click the check and save icon in the schematic editor window observe CIW output for any errors.
 
-BUILDING THE INVERTER TEST DESIGN: 
+# BUILDING THE INVERTER TEST DESIGN: 
 
 Creating the inverter test cell view:
 
@@ -84,9 +84,8 @@ Creating the inverter test cell view:
 
 ![image](https://github.com/Gokul5310/VLSI-LAB-EXP-6/assets/116006381/846e6a19-ba00-43a5-9863-808bd3841107)
 
-ANALOG SIMULATION WITH SPECTRA: 
-
-Starting the simulation environment:
+# ANALOG SIMULATION WITH SPECTRA: 
+# Starting the simulation environment:
 1.In the Inverter-test schematic window execute launch – ADEL. The variable virtuoso analog design environment (ADE) simulation window appears. Choosing a simulator:
 
 2.In the simulation window (ADE) execute setup – simulator / directory / host.
@@ -108,7 +107,7 @@ Selecting output for plotting:
 
 2.Follow the prompt at the bottom. Click on the o/p net vout input vin of the inverter. Press esc with the cursor after selecting.
 
-Running the simulation:
+# Running the simulation:
 1.Execute the simulation Netlist and run in the simulation window to start the simulation on the icon. This will create the netlist as well as run the simulation.
 
 2.When the simulation finishes the transient and DC plots automatically will be popped up along with netlist.
