@@ -102,7 +102,7 @@ Creating the inverter test cell view:
 
 8.To set for DC analysis a. In the analysis section select DC. b. Turn on save DC operating point. c. Turn on the component parameters. d. Double click the select Vpulse source or Type V0 (capital V zero). e. Select the DC voltage in the select window parameter and click in the form start and stop voltages are 0 to 1.8. f. Select the enable button and click apply and then click ok.
 
-Selecting output for plotting:
+# Selecting output for plotting:
 1.Execute the o/p’s to be plotted -select on sschematic in the simulation window.
 
 2.Follow the prompt at the bottom. Click on the o/p net vout input vin of the inverter. Press esc with the cursor after selecting.
